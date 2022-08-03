@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#code {
+  font-size: 22px;
+  background-color: #222;
+  position: relative;
+  height: 100vh;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+pre {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+span,
+a {
+  color: #2ecc71;
+}
