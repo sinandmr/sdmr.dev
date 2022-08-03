@@ -1,3 +1,3 @@
 # Index Sayfası
 
-[sdmr.dev](https://www.google.com) sitesinin index sayfasına ait kodları içerir.
+[sdmr.dev](https://www.sdmr.dev) sitesinin index sayfasına ait kodları içerir.
